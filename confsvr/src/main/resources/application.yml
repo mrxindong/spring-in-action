@@ -13,7 +13,9 @@
 
 
 server:
-   port: 8080
+   port: 8000
+   tomcat:
+     max-http-post-size: 1200
 spring:
   profiles:
     active: native
