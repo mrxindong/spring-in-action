@@ -15,4 +15,9 @@ public class ConfsvrApplication {
 	public void test(){
 
 	}
+
+
+	public void test1(){
+
+	}
 }
