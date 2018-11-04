@@ -16,6 +16,8 @@ server:
    port: 8000
    tomcat:
      max-http-post-size: 1200
+     accesslog:
+       file-date-format: 12
 spring:
   profiles:
     active: native

@@ -25,4 +25,7 @@ public class ConfsvrApplication {
 
 	}
 
+	public void test3(){
+
+	}
 }
